@@ -13,7 +13,7 @@ public class EmployeePayrollDBService {
 
 	private PreparedStatement employeePayrollDataStatement;
     private static EmployeePayrollDBService employeePayrollDBService;
-    private void EmployeePayrolDBService() {
+    private void EmployeePayrollDBService() {
     }
 
     public static EmployeePayrollDBService getInstance(){
